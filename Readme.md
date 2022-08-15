@@ -1,4 +1,7 @@
 # awsl
 
 ## VolumeGradient.hip
- volumegradient, minpos
+volumegradient, minpos
+
+## XyzdistAndPrimuv.hip
+xyzdist, primuv

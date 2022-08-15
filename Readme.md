@@ -4,4 +4,4 @@
 volumegradient, minpos
 
 ## XyzdistAndPrimuv.hip
-xyzdist, primuv
+primuv, uvsample, xyzdist
